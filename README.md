@@ -35,7 +35,7 @@ and here
 
 **Note:** This repository is specific to Vue.js. Please check [Javascript Interview questions](https://github.com/dvyogesh/Javascript-Interview-questions) for core javascript questions.
 
-**Note:** This repository is specific to Vue.js. Please check [React.js Interview questions](https://github.com/dvyogesh/react.js-interview-questions) for core javascript questions.
+**Note:** This repository is specific to Vue.js. Please check [React.js Interview questions](https://github.com/dvyogesh/react.js-interview-questions) for core React.js questions.
 
 ### Table of Contents
 -------------------------------------------------------------------
